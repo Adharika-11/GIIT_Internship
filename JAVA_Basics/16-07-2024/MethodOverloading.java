@@ -25,8 +25,5 @@ public class MethodOverloading {
         System.out.println("Sum: "+(m.Add(a,b,a)));
         System.out.println("Sum: "+(m.Add(a,c)));
         System.out.println("Sum: "+(m.Add(c,b)));
-
-
-
     }
 }
